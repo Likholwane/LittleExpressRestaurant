@@ -1,0 +1,112 @@
+html{
+    height: 100%;
+}
+
+body{
+    font-family: sans-serif;
+    
+    margin:0;
+    padding: 0;
+    
+    height:100%;
+}
+
+/*========== HOME PAGE ========*/
+
+/*========== HOME PAGE MENU ========*/
+
+.home-menu-item{
+text-decoration: none;
+text-transform: uppercase;
+    
+color: white;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+border:5px solid white;
+    
+display: block;
+margin: auto;
+margin-bottom: 10px;
+width: 80%;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Little Express Restaurant | Salads | Olive Garden Salad</title>
+<link rel="stylesheet"href="style.css">
+    <link rel="stylesheet"href="fontAwsome/css/all.css">
+</head>
+  
+    <body class="body-recipes">
+        
+        <div class="header">
+        <a href="salads.html">
+            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 288 480 288c17.7 0 32-14.3 32-32s-14.3-32-32-32l-370.7 0 73.4-73.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-128 128z"/></svg>
+        </a>
+            <h1>LITTLE EXPRESS RESTAURANT</h1>
+        </div>
+        
+    <div id="recipe">
+     
+        <div class="recipe-details">
+        <img src="images/1e86311d92734f9e2241dce6bfea3e52.jpg" width="100%">
+        <h1>Burrata Salad</h1>
+            
+            <div class="recipe-details-info">
+                <p><b>Prep Time: </b>1hr </p>
+                <p style="float: right"><b>Yield: </b>4</p>
+            </div>
+            <div class="recipe-details-ingredients">
+            <h2>Ingridients</h2>
+                <input id="check-01" type="checkbox">
+                <label for="check-01"></label>
+                <br>
+                <input id="check-02" type="checkbox">
+                <label for="check-02"></label>
+                <br>
+                <input id="check-03" type="checkbox">
+                <label for="check-03"></label>
+                <br>
+                <input id="check-04" type="checkbox">
+                <label for="check-04"></label>
+                <br>
+                <input id="check-05" type="checkbox">
+                <label for="check-05"></label>
+                <br>
+                <input id="check-06" type="checkbox">
+                <label for="check-06"></label>
+                <br>
+                <input id="check-07" type="checkbox">
+                <label for="check-07"></label>
+                <br>
+                <input id="check-08" type="checkbox">
+                <label for="check-08"></label>
+                <br>
+                <input id="check-09" type="checkbox">
+                <label for="check-09"></label>
+                <br>
+                <input id="check-10" type="checkbox">
+                <label for="check-10"></label>
+                <br>
+                <input id="check-11" type="checkbox">
+                <label for="check-11"></label>
+                <br>
+                <input id="check-12" type="checkbox">
+                <label for="check-12"></label>
+            </div>
+            
+                <div class="recipe-details-steps">
+               <h2>steps</h2>
+                <ol>
+                 
+                    </ol>    
+                </div>
+              
+                
+            </div>
+            
+            </div>
+            
+    
